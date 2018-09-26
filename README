@@ -1,0 +1,5 @@
+This is the basic functionality of flappy bird. 
+
+it does not include reset on death or a points system although these can be simply added.
+
+it will tell you if you hit a pipe in console log and everytime you hit space to manouver the circle. 
